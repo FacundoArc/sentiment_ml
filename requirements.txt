@@ -101,5 +101,4 @@ waitress==2.1.2
 watchdog==2.3.0
 webcolors==1.12
 xarray==2023.2.0
-xlrd==2.0.1
 xmlrpclib==1.0.1
