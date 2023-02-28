@@ -5,3 +5,4 @@ pillow
 numpy
 findspark
 google.cloud
+spark
