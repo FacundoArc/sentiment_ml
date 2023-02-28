@@ -4,3 +4,4 @@ pyspark
 pillow
 numpy
 findspark
+google.cloud
