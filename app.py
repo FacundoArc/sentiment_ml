@@ -7,7 +7,6 @@ from pyspark.sql.types import *
 from pyspark.sql.functions import *
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.feature import HashingTF, Tokenizer, StopWordsRemover
-from google.cloud import bigquery
 from pyspark.sql import SparkSession
 from pyspark.ml import Pipeline
 from pyspark.ml import PipelineModel
